@@ -1,0 +1,7 @@
+Is folder mein test video dalna hai (Task 4 - Object Detection & Tracking).
+
+Sample videos (direct download links):
+1. https://github.com/intel-iot-devkit/sample-videos/raw/master/person-bicycle-car-detection.mp4
+2. https://github.com/intel-iot-devkit/sample-videos/raw/master/car-detection.mp4
+
+Dono download kar lo to best hai. Apni koi bhi .mp4 video bhi use kar sakte ho.

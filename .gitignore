@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model weights (README mein download link hai)
+*.pt
+
+# Videos (bare files — README mein links hain)
+videos/*.mp4
+output/*.mp4
+
+# OS
+Thumbs.db
+.DS_Store
