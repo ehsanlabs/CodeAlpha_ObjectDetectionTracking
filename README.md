@@ -46,7 +46,10 @@ Press **`q`** to quit the video window.
 
 ## 📸 Screenshots & Results
 
-![Detection output](screenshots/detection.png)
+| | |
+|---|---|
+| ![Detection 1](screenshots/one.png) | ![Detection 2](screenshots/two.png) |
+| ![Detection 3](screenshots/third.png) | ![Detection 4](screenshots/four.png) |
 
 Test run on the sample video: **647 frames processed, 11 unique objects tracked, ~17 FPS** on CPU.
 
