@@ -46,6 +46,8 @@ Press **`q`** to quit the video window.
 
 ## 📸 Screenshots & Results
 
+![Web UI](screenshots/ui.png)
+
 | | |
 |---|---|
 | ![Detection 1](screenshots/one.png) | ![Detection 2](screenshots/two.png) |
